@@ -36,3 +36,16 @@ public class LibrarySystem {
         Book.displayLibraryName();
     }
 }
+
+/*
+O/P ->
+Library: City Library
+ISBN: 978-3-16-148410-0
+Title: Java Programming
+Author: RK Singh
+Library: City Library
+ISBN: 978-0-262-13472-9
+Title: Data Structures
+Author: SP Shukla
+Library Name: City Library
+ */
